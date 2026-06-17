@@ -1,5 +1,7 @@
 # Regulatory Reporting Platform
 
+
+[![Coverage](https://img.shields.io/badge/Coverage-JaCoCo-blue?style=flat-square&logo=codecov)](https://github.com/Raphasha27/regulatory-reporting-platform/actions)
 [![CI](https://github.com/koketseraphasha/regulatory-reporting-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/koketseraphasha/regulatory-reporting-platform/actions/workflows/ci.yml)
 
 Financial compliance and regulatory reporting platform. Generate transaction reports, risk reports, compliance reports, and audit reports.
